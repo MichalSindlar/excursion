@@ -1,0 +1,54 @@
+h1.title {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p.link {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+p.description {
+  font-family: Verdana;
+  color: Gray;
+  font-size: 21px;
+}
+
+p.footer {
+  text-align: right;
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+html {
+  background-color: black
+}
+
+video {
+  object-fit: contain;
+  text-align: center;
+  object-position: center;
+}
+
+img {
+  text-align: center;
+  object-position: center;
+}
